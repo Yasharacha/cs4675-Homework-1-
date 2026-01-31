@@ -2,7 +2,7 @@
 
 ## Overview
 This project demonstrates hands-on experience with a web crawler and post-processing of crawled data.  
-We used **Apache Nutch** to crawl the web and **custom post-processing scripts** to extract keywords and analyze crawl statistics.
+I used **Apache Nutch** to crawl the web and **custom post-processing scripts** to extract keywords and analyze crawl statistics.
 
 The crawler was configured as a **focused crawler** targeting the Georgia Tech College of Computing website:
 
