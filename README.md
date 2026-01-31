@@ -38,6 +38,7 @@ Apache Lucene was not used directly for crawling; instead, Nutch handled crawlin
 
 ## Repository Structure
 HW1/
+
 ├── nutch-seeds/
 
 │ └── seed.txt
