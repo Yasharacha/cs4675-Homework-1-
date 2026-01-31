@@ -73,7 +73,6 @@ Instead, **representative dumps** (`segment_dump/`) and **crawl statistics** are
 The crawler is run in **WSL (Ubuntu)**.
 
 Install Java 11:
-```bash
 sudo apt update
 sudo apt install -y openjdk-11-jdk
 
