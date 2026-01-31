@@ -1,0 +1,10 @@
+# Generated crawl data (too large for GitHub)
+segment_dump/
+
+# Build artifacts
+target/
+*.class
+*.crc
+
+# Nutch crawl output
+nutch-crawl/
