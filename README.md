@@ -39,11 +39,17 @@ Apache Lucene was not used directly for crawling; instead, Nutch handled crawlin
 ## Repository Structure
 HW1/
 ├── nutch-seeds/
+
 │ └── seed.txt
+
 ├── segment_dump/
+
 │ └── <dumped readable segments>
+
 ├── keywords.py
+
 ├── keyword_stats.csv
+
 ├── README.md
 
 
