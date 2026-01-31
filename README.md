@@ -45,7 +45,7 @@ HW1/
 
 ├── segment_dump/
 
-│ └── <dumped readable segments>
+│ └── <dumped readable segments>/
 
 ├── keywords.py
 
