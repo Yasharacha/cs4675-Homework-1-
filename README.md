@@ -65,7 +65,7 @@ This directory contains raw crawl data (segments, crawldb, content, parse_text),
 
 Instead, **representative dumps** (`segment_dump/`) and **crawl statistics** are included to document results.
 
----
+
 
 ## How to Run the Web Crawler
 
